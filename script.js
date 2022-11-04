@@ -1,5 +1,5 @@
 class Ninja{
-    nombre ="";
+    nombre = "";
     vida = 100;
     velocidad = 3;
     fuerza = 3;
